@@ -11,4 +11,6 @@ Please enter end date: 2015-11-01
 +-------+---------+
 | 15    | 11400   |
 | 6     | 4679.84 |
++-------+---------+
+dakulov-macbook:untitled1 dakulov$ 
 </pre>

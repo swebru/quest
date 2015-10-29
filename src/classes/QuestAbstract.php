@@ -7,7 +7,7 @@
 
 namespace SpaceWeb\Quest;
 
-class QuestAbstract
+abstract class QuestAbstract
 {
     /**
      * @var \PDO

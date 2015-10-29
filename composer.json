@@ -1,0 +1,17 @@
+{
+    "name": "SpaceWeb/Quest",
+    "description": "quest for interviewers",
+    "minimum-stability": "stable",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Denis Akulov",
+            "email": "akulov.d.g@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "SpaceWeb\\Quest\\": "src/classes/"
+        }
+    }
+}

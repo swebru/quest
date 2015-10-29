@@ -3,10 +3,12 @@
 
 Пример работы утилиты:
 <pre>
-$ php quest_example.php --with-documents
-start_date: 2015-07-01
-end_date: 2015-09-30
-
-|sum|count|
-|12345.67|123|
+dakulov-macbook:untitled1 dakulov$ php quest_done.php statistic --without-documents --with-documents
+Please enter start date: 2015-07-20
+Please enter end date: 2015-11-01
++-------+---------+
+| count | amount  |
++-------+---------+
+| 15    | 11400   |
+| 6     | 4679.84 |
 </pre>

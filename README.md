@@ -1,6 +1,8 @@
 # quest
 Необходимо используя composer-пакет [spaceweb/quest](https://packagist.org/packages/spaceweb/quest) написать консольную утилиту вычисляющую количество и сумму платежей для которых сформированы и не сформированы документы.
 
+Для установки пакета воспользуйтесь коммандой: <pre>composer require spaceweb/quest</pre>
+
 Пример работы утилиты:
 <pre>
 dakulov-macbook:untitled1 dakulov$ php quest_done.php statistic --without-documents --with-documents

@@ -3,7 +3,7 @@ CREATE TABLE "documents" (
   "create_ts" timestamp NOT NULL DEFAULT '0000-00-00 00:00:00',
   "update_ts" timestamp DEFAULT NULL,
   "number" int(11)  NOT NULL,
-  "entity_id" int(11)  NOT NULL
+  "payment_id" int(11)  NOT NULL
 );
 INSERT INTO "documents" VALUES (1,'2015-01-05 11:00:21',NULL,7036691,2709001);
 INSERT INTO "documents" VALUES (2,'2015-01-09 11:03:32',NULL,7038068,2710347);
